@@ -3,7 +3,7 @@ fpdf==1.7.2
 itranslate==0.1.2
 openai==0.27.2
 pdfplumber==0.8.0
-qdrant-client==1.1.0
+qdrant-client==1.9.0
 plotly==5.13.1
 st-annotated-text==3.0.0
 streamlit==1.11.1
